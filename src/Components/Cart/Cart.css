@@ -1,0 +1,19 @@
+.cart-style{
+    background-color: rgb(190, 202, 255);
+    min-height: 300px;
+    text-align: left;
+    margin: 0 10px;
+    padding: 0 10px;
+    margin-top: 22%;
+}
+
+.cart-style h1{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+.cart-style h2{
+    font-size: 20px;
+    font-weight: bold;
+}

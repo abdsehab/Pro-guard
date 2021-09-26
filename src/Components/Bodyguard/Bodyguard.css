@@ -1,0 +1,36 @@
+
+.bodyguard-style{
+    background-color: rgb(175, 190, 255);
+    border-radius: 20px;
+}
+
+.bodyguard-img{
+    padding-top: 10px;
+    text-align: center;
+}
+.bodyguard-style img{
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   
+}
+
+.bodyguard-info{
+    margin-left: 20px;
+    padding-bottom: 10px;
+    
+}
+
+
+
+.bodyguard-info button{
+    border: 1px solid gray;
+    border-radius: 10px;
+    
+    font-weight: bold;
+    padding: 10px;
+    background-color: rgb(254, 255, 250);
+    color: black;
+    cursor: pointer;
+}
+
